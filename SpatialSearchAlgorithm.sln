@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialSearchAlgorithm", "SpatialSearchAlgorithm.csproj", "{162a11e9-21eb-8b9d-a160-7917c794fe51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrsB.CollisionQuadTree", "MrsB.CollisionQuadTree.csproj", "{f01fa4af-5924-833d-1ac8-79ef8682b6a3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{66507a82-39c5-c564-6899-77f23a9cf4a2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6e15612d-8a21-2d6e-aaef-800c0597adc9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162a11e9-21eb-8b9d-a160-7917c794fe51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162a11e9-21eb-8b9d-a160-7917c794fe51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f01fa4af-5924-833d-1ac8-79ef8682b6a3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f01fa4af-5924-833d-1ac8-79ef8682b6a3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66507a82-39c5-c564-6899-77f23a9cf4a2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66507a82-39c5-c564-6899-77f23a9cf4a2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6e15612d-8a21-2d6e-aaef-800c0597adc9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6e15612d-8a21-2d6e-aaef-800c0597adc9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
